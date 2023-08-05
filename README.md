@@ -1,5 +1,5 @@
 # Acelera ZG
-![Logo Zg Soluções](https://www.google.com/url?sa=i&url=https%3A%2F%2Fzgteam.gupy.io%2F&psig=AOvVaw01EStRY2PviBbfl26EFG5K&ust=1691349797225000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjx15WfxoADFQAAAAAdAAAAABAE)
+![Logo Zg Soluções](https://zgsolucoes.com.br/wp-content/uploads/2021/08/Copia-de-Copia-de-logo-horizontal.png)
 **Projeto introdutório da trilha K1-T1**
 
 ***
